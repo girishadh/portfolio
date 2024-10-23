@@ -1,0 +1,13 @@
+.container {
+    display: inline-block
+}
+
+.typewriter {
+    overflow: hidden;
+    animation: typing 5s steps(40, end) forwards;   
+    white-space: nowrap;
+    font-family: monospace;
+    font-size: 2em;
+    border-right: 3px solid;
+    width: 0;
+}
